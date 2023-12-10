@@ -8,4 +8,4 @@ Comparative study of Informed and Uniformed Search Algorithms.
 2. Uniformed Algorithm - DFS 
 3. Uniformed Algorithm - BFS
 
-Alongside with Path Analysis of DFS and BFS.
+Alongside with Path Analysis of DFS and BFS excluding A*.
